@@ -1,0 +1,13 @@
+debug/SerialThread.o
+debug/main.o
+debug/mainwindow.o
+debug/mycurvewidget.o
+debug/myserialwidget.o
+debug/mydockwidget.o
+debug/mymotorwidget.o
+debug/moc_SerialThread.o
+debug/moc_mainwindow.o
+debug/moc_mycurvewidget.o
+debug/moc_myserialwidget.o
+debug/moc_mydockwidget.o
+debug/moc_mymotorwidget.o

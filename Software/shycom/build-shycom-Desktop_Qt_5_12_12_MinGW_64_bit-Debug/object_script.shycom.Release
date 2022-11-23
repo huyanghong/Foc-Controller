@@ -1,0 +1,13 @@
+release/SerialThread.o
+release/main.o
+release/mainwindow.o
+release/mycurvewidget.o
+release/myserialwidget.o
+release/mydockwidget.o
+release/mymotorwidget.o
+release/moc_SerialThread.o
+release/moc_mainwindow.o
+release/moc_mycurvewidget.o
+release/moc_myserialwidget.o
+release/moc_mydockwidget.o
+release/moc_mymotorwidget.o
